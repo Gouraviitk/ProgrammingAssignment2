@@ -1,4 +1,7 @@
-## Put comments here that give an overall description of what your
+##This programe returns the inverse of a matri but important thing is that it 
+##doesn't perform calculation twice. If once a matrix is passed it stores the 
+##result in cache and next time returns directly.
+
 ## functions do
 
 ## This function creates a special matrix that can cache its inverse
